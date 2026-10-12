@@ -1,6 +1,6 @@
-<h1 align="center">Hey, I'm Louis aka Eole ! 👋</h1>
+<h1 align="center">Hey, I'm Louis ! 👋</h1>
 
-<h3 align="center">Web Developer 💻</h3>
+<h3 align="center">FullStack Developer 💻</h3>
 
 <p align="center">
   Build good stuff. Take the time to do it right.
